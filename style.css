@@ -1,0 +1,13 @@
+#container{
+  color: pink;
+  font-size: large;
+}
+
+p{
+  color: blue;
+  font-size: large;
+}
+#theBox{
+  display: flex;
+  flex-direction: column;
+}
